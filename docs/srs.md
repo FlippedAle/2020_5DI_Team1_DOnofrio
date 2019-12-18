@@ -15,7 +15,7 @@
    3.2 Performance Requirements  
    3.3 Security Requirements  
    3.4 Documentation and Training  
-   3.5 External Interface  
+   3.5 [External Interface](#ei)  
       &nbsp;&nbsp;&nbsp;3.5.1 User Interface  
       &nbsp;&nbsp;&nbsp;3.5.2 Software Interface
 4. [Functional Requirements](#fr)  
@@ -67,7 +67,7 @@ The **main objective** of this project is to allow users to have an easy and qui
 
 ### 3.4 Documentation and Training
 
-### 3.5 External Interface
+### 3.5 <a id="ei"></a> External Interface
 
 #### 3.5.1 User Interface
 
