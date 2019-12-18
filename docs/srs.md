@@ -33,7 +33,7 @@ The **OnGo** is an application that provides you access to all the files stored 
 
 This document provides informations on the requirements for the **OnGo** application.  
 Project goals, scope and definitions are given in the _introduction_.  
-_Design constraints_ and _application environment_ are descrived in the following section.  
+_Design constraints_ and _application environment_ are described in the following section.  
 _Nonfunctional requirements_ are outlined for later verification.  
 _Functional requirements_ are given to show the system features and expected user interaction.  
 The _Software Project Management Plan_ will give specifics on project budget and schedule.
