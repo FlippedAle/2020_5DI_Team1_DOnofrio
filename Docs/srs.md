@@ -27,7 +27,9 @@
 
 ### 1.1 Overview
 
-The **OnGo** is an application that provides you access to all the files stored on your personal computer from _any device_ you want.
+The **OnGo** is an application that provides you access to all the files stored on your personal computer from _any device_ you want. 
+
+This document provides informations on the requirements for the OnGo 
 
 
 ### 1.2 Goals and Objectives
