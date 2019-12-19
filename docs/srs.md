@@ -1,7 +1,7 @@
 # <a id="top"></a> Software Requirements Specifications
 
 Version 1.0,  
-prepared by TheFlippedDevs
+prepared by TheFlippedCompany
 
 ## Table of Content
 
