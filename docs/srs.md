@@ -23,6 +23,9 @@ prepared by TheFlippedDevs
       &nbsp;&nbsp;&nbsp;3.5.2 Software Interface
 4. [Functional Requirements](#fr)  
    4.1 Required Features  
+      &nbsp;&nbsp;&nbsp;4.1.1 Use Case 1 - Create a Folder  
+      &nbsp;&nbsp;&nbsp;4.1.2 Use Case 2 - Tranfer a file to the origin 
+      &nbsp;&nbsp;&nbsp;4.1.3 Use Case 3 - Require a file from the origin  
    4.2 Optional Features
 
 ## 1. <a id="introduction"></a> Introduction
@@ -97,18 +100,79 @@ The OnGo application _itself_ will not include any documentation or training for
 
 #### 3.5.1 _User Interface_
 
-The interface will be eye-catching in order to let the user interact with a familiar environment.
+The interface will be _eye-catching_ in order to let the user interact with a _familiar environment_.
 
-The interface will be easy to use on any device since it will resemble a Windows-like operating system UI.
+The interface will be easy to use on any device since it will resemble a _Windows-like operating system UI_.
 
-#### 3.5.2 Software Interface
+#### 3.5.2 _Software Interface_
 
 The [OnGo Api](https://us-central1-web-ftp-ongo.cloudfunctions.net/api) works as an interface between the **origin** application and the **user** application. It handles and direct all the communications between the _users_ and their corresponding _origin_ system.
 
 ## 4. <a id="fr"></a> Functional Requirements
 
-### 4.1 Required Features
+### 4.1 _Required Features_
 
-### 4.2 Optional Features
+#### 4.1.1 _Use Case 1_
+
+**Description: Create a new folder and navigate inside it**  
+Actors: OnGo _User_  
+
+Basic path _origin_:
+1. The user opens the _OnGo Desktop Application_
+2. The user copies the generated code
+3. _The user can now decide when to start working on his other devices_
+
+Basic path _user_:  
+1. The user goes to [our website]()
+2. The user clicks on the _OnGo Application Icon_
+3. The user _logs into_ his account
+4. The user prompts the _previously given_ code
+5. The systems provides an _accurate view_ of the user's origin system
+6. The user navigates to the desired folders by _double-clicking_ on them
+7. To create a new folder, the user _right-clicks_ on the page and clicks on "_New folder_"
+8. The user decides a proper name and then clicks _create_
+9. A new folder has just been created on the origin system
+
+#### 4.1.2 _Use Case 2_
+
+**Description: Transfer a file from the User to the Origin**  
+Actors: OnGo _User_  
+
+Basic path _origin_:
+1. The user opens the _OnGo Desktop Application_
+2. The user copies the generated code
+3. _The user can now decide when to start working on his other devices_
+
+Basic path _user_:  
+1. The user goes to [our website]()
+2. The user clicks on the _OnGo Application Icon_
+3. The user _logs into_ his account
+4. The user prompts the _previously given_ code
+5. The systems provides an _accurate view_ of the user's origin system
+6. The user navigates to the desired folders by _double-clicking_ on them
+7. To transfer a document, the user _drags and drops_ the desired file from the local system to the web application
+8. A new file has just been transfered to the origin system
+
+#### 4.1.2 _Use Case 3_
+
+**Description: Require a file located in the Origin as a User**  
+Actors: OnGo _User_  
+
+Basic path _origin_:
+1. The user opens the _OnGo Desktop Application_
+2. The user copies the generated code
+3. _The user can now decide when to start working on his other devices_
+
+Basic path _user_:  
+1. The user goes to [our website]()
+2. The user clicks on the _OnGo Application Icon_
+3. The user _logs into_ his account
+4. The user prompts the _previously given_ code
+5. The systems provides an _accurate view_ of the user's origin system
+6. The user navigates to the desired folders by _double-clicking_ on them
+7. The user, to require a file, _right-clicks_ on the desired document and clicks on "_Download_"
+8. After a few seconds, the required file is downloaded on the user's system 
+
+### 4.2 _Optional Features_
 
 ### [GoBack](index.md)
