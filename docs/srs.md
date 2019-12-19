@@ -26,7 +26,9 @@ prepared by TheFlippedDevs
       &nbsp;&nbsp;&nbsp;4.1.1 Use Case 1 - Create a Folder  
       &nbsp;&nbsp;&nbsp;4.1.2 Use Case 2 - Tranfer a file to the origin 
       &nbsp;&nbsp;&nbsp;4.1.3 Use Case 3 - Require a file from the origin  
-   4.2 Optional Features
+   4.2 Optional Features  
+      &nbsp;&nbsp;&nbsp;4.2.1 Use Case 1 - Send a command from a CLI  
+      &nbsp;&nbsp;&nbsp;4.1.3 Use Case 2 - Create a file with content
 
 ## 1. <a id="introduction"></a> Introduction
 
