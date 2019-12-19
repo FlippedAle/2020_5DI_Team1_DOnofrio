@@ -1,4 +1,4 @@
-# Software Requirements Specifications
+# <a id="top"></a> Software Requirements Specifications
 
 Version 1.0,  
 prepared by TheFlippedDevs
@@ -218,7 +218,8 @@ Basic path _user_:
 9. The user will then type the desired name and extension in the modal
 10. A new file with content _has been added_ to the origin system in the desired path
 
-### [GoBack](index.md)
+#### [Top page](#top)
+#### [Index](index.md)
 
 [FlippedWebsite]: https://www.theflippedteam.altervista.org
 [OnGoApi]: https://us-central1-web-ftp-ongo.cloudfunctions.net/api
