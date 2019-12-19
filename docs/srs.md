@@ -81,17 +81,29 @@ The **origin main application** has to generate and give the code to the user in
 
 ### 3.2 _Performance Requirements_
 
-### 3.3 Security Requirements
+When a file is _downloaded_ / _uploaded_, the system has to deliver the whole document without losing any part regardeless of the file dimension.
+
+### 3.3 _Security Requirements_
+
+The first versions of the OnGo application will only require:
+
+* User **login** and **registration** (to download the origin application and to use the user web app)
 
 ### 3.4 _Documentation and Training_
 
 The OnGo application _itself_ will not include any documentation or training for the final user but video tutorials will be available on the [team website]() and on the official [YouTube channel]().
 
-### 3.5 <a id="ei"></a> External Interface
+### 3.5 <a id="ei"></a> _External Interface_
 
-#### 3.5.1 User Interface
+#### 3.5.1 _User Interface_
+
+The interface will be eye-catching in order to let the user interact with a familiar environment.
+
+The interface will be easy to use on any device since it will resemble a Windows-like operating system UI.
 
 #### 3.5.2 Software Interface
+
+The [OnGo Api](https://us-central1-web-ftp-ongo.cloudfunctions.net/api) works as an interface between the **origin** application and the **user** application. It handles and direct all the communications between the _users_ and their corresponding _origin_ system.
 
 ## 4. <a id="fr"></a> Functional Requirements
 
