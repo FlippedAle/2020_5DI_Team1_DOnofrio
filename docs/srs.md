@@ -64,11 +64,11 @@ The OnGo product includes:
 * A **desktop application** of our design that has to be installed on the _origin_ system
 * A **web application** of our design that is used by the _user_ to interact with his own registered _origin_ system
 
-Both applications interact with our [Web Api](https://us-central1-web-ftp-ongo.cloudfunctions.net/api) that will handle the communications between the **user** and the corresponding **origin**. 
+Both applications interact with our [Web Api][OnGoApi] that will handle the communications between the **user** and the corresponding **origin**. 
 
 ### 2.2 _User Characteristics_
 
-Users will need to have a valid [account]() in order to download the **OnGo origin program** and they will also need to use their accounts to log into the **user web application** in order to use it. There is _no limitation_ on the device that the user can use.
+Users will need to have a valid [account][FlippedWebsiteLogin] in order to download the **OnGo origin program** and they will also need to use their accounts to log into the **user web application** in order to use it. There is _no limitation_ on the device that the user can use.
 
 ### 2.3 _Mandated Constrains_
 
@@ -94,7 +94,7 @@ The first versions of the OnGo application will only require:
 
 ### 3.4 _Documentation and Training_
 
-The OnGo application _itself_ will not include any documentation or training for the final user but video tutorials will be available on the [team website]() and on the official [YouTube channel]().
+The OnGo application _itself_ will not include any documentation or training for the final user but video tutorials will be available on the [team website][FlippedWebsite] and on the official [YouTube channel][FlippedYoutubeChannel].
 
 ### 3.5 <a id="ei"></a> _External Interface_
 
@@ -106,7 +106,7 @@ The interface will be easy to use on any device since it will resemble a _Window
 
 #### 3.5.2 _Software Interface_
 
-The [OnGo Api](https://us-central1-web-ftp-ongo.cloudfunctions.net/api) works as an interface between the **origin** application and the **user** application. It handles and direct all the communications between the _users_ and their corresponding _origin_ system.
+The [OnGo Api][OnGoApi] works as an interface between the **origin** application and the **user** application. It handles and direct all the communications between the _users_ and their corresponding _origin_ system.
 
 ## 4. <a id="fr"></a> Functional Requirements
 
@@ -123,7 +123,7 @@ Basic path _origin_:
 3. _The user can now decide when to start working on his other devices_
 
 Basic path _user_:  
-1. The user goes to [our website]()
+1. The user goes to [our website][FlippedWebsite]
 2. The user clicks on the _OnGo Application Icon_
 3. The user _logs into_ his account
 4. The user prompts the _previously given_ code
@@ -144,7 +144,7 @@ Basic path _origin_:
 3. _The user can now decide when to start working on his other devices_
 
 Basic path _user_:  
-1. The user goes to [our website]()
+1. The user goes to [our website][FlippedWebsite]
 2. The user clicks on the _OnGo Application Icon_
 3. The user _logs into_ his account
 4. The user prompts the _previously given_ code
@@ -164,7 +164,7 @@ Basic path _origin_:
 3. _The user can now decide when to start working on his other devices_
 
 Basic path _user_:  
-1. The user goes to [our website]()
+1. The user goes to [our website][FlippedWebsite]
 2. The user clicks on the _OnGo Application Icon_
 3. The user _logs into_ his account
 4. The user prompts the _previously given_ code
@@ -175,4 +175,52 @@ Basic path _user_:
 
 ### 4.2 _Optional Features_
 
+#### 4.2.1 _Use Case 1_
+
+**Description: Send a full proper command through a DOS emulator. Computer shutdown from CLI**  
+Actors: OnGo _User_  
+
+Basic path _origin_:
+1. The user opens the _OnGo Desktop Application_
+2. The user copies the generated code
+3. _The user can now decide when to start working on his other devices_
+
+Basic path _user_:  
+1. The user goes to [our website][FlippedWebsite]
+2. The user clicks on the _OnGo Application Icon_
+3. The user _logs into_ his account
+4. The user prompts the _previously given_ code
+5. The systems provides an _accurate view_ of the user's origin system
+6. The user clicks on the _CMD_ icon on the top-left corner
+7. A CLI will appear in the view and the user will be able to send proper commands
+8. To shut the system down in 60 seconds, the user types _sudo shutdown -s -t 60_
+9. The system will be shut down and the connection will be closed
+
+#### 4.2.2 _Use Case 2_
+
+**Description: Add a new file with content in it**  
+Actors: OnGo _User_  
+
+Basic path _origin_:
+1. The user opens the _OnGo Desktop Application_
+2. The user copies the generated code
+3. _The user can now decide when to start working on his other devices_
+
+Basic path _user_:  
+1. The user goes to [our website][FlippedWebsite]
+2. The user clicks on the _OnGo Application Icon_
+3. The user _logs into_ his account
+4. The user prompts the _previously given_ code
+5. The systems provides an _accurate view_ of the user's origin system
+6. The user navigates to the desired folders by _double-clicking_ on them
+7. To create a new file, the user clicks on the _Notepad_ icon on the top-left corner
+8. When the web editor loads up, the user will be able to type and save the document in the desired format by clicking the "_save_" button
+9. The user will then type the desired name and extension in the modal
+10. A new file with content _has been added_ to the origin system in the desired path
+
 ### [GoBack](index.md)
+
+[FlippedWebsite]: https://www.theflippedteam.altervista.org
+[OnGoApi]: https://us-central1-web-ftp-ongo.cloudfunctions.net/api
+[FlippedWebsiteLogin]: https://www.theflippedteam.altervista.org
+[FlippedYoutubeChannel]: https://www.youtube.com
