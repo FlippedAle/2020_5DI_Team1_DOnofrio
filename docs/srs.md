@@ -129,7 +129,7 @@ Basic path _user_:
 2. The user clicks on the _OnGo Application Icon_
 3. The user _logs into_ his account
 4. The user prompts the _previously given_ code
-5. The systems provides an _accurate view_ of the user's origin system
+5. The system provides an _accurate view_ of the user's origin system
 6. The user navigates to the desired folders by _double-clicking_ on them
 7. To create a new folder, the user _right-clicks_ on the page and clicks on "_New folder_"
 8. The user decides a proper name and then clicks _create_
@@ -150,7 +150,7 @@ Basic path _user_:
 2. The user clicks on the _OnGo Application Icon_
 3. The user _logs into_ his account
 4. The user prompts the _previously given_ code
-5. The systems provides an _accurate view_ of the user's origin system
+5. The system provides an _accurate view_ of the user's origin system
 6. The user navigates to the desired folders by _double-clicking_ on them
 7. To transfer a document, the user _drags and drops_ the desired file from the local system to the web application
 8. A new file has just been transfered to the origin system
@@ -170,7 +170,7 @@ Basic path _user_:
 2. The user clicks on the _OnGo Application Icon_
 3. The user _logs into_ his account
 4. The user prompts the _previously given_ code
-5. The systems provides an _accurate view_ of the user's origin system
+5. The system provides an _accurate view_ of the user's origin system
 6. The user navigates to the desired folders by _double-clicking_ on them
 7. The user, to require a file, _right-clicks_ on the desired document and clicks on "_Download_"
 8. After a few seconds, the required file is downloaded on the user's system 
@@ -192,7 +192,7 @@ Basic path _user_:
 2. The user clicks on the _OnGo Application Icon_
 3. The user _logs into_ his account
 4. The user prompts the _previously given_ code
-5. The systems provides an _accurate view_ of the user's origin system
+5. The system provides an _accurate view_ of the user's origin system
 6. The user clicks on the _CMD_ icon on the top-left corner
 7. A CLI will appear in the view and the user will be able to send proper commands
 8. To shut the system down in 60 seconds, the user types _sudo shutdown -s -t 60_
@@ -213,7 +213,7 @@ Basic path _user_:
 2. The user clicks on the _OnGo Application Icon_
 3. The user _logs into_ his account
 4. The user prompts the _previously given_ code
-5. The systems provides an _accurate view_ of the user's origin system
+5. The system provides an _accurate view_ of the user's origin system
 6. The user navigates to the desired folders by _double-clicking_ on them
 7. To create a new file, the user clicks on the _Notepad_ icon on the top-left corner
 8. When the web editor loads up, the user will be able to type and save the document in the desired format by clicking the "_save_" button
