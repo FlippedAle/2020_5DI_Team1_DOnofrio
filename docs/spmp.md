@@ -10,7 +10,7 @@ prepared by TheFlippedCompany
    1.2 Purpose and Scope  
    1.3 Goals and Objectives  
    1.4 Projects Deliverables  
-   1.5 Assumptions and Constrains  
+   1.5 Assumptions and Constraints  
    1.6 Schedule and Budget Summary  
       &nbsp;&nbsp;&nbsp;1.6.1 Schedule  
       &nbsp;&nbsp;&nbsp;1.6.2 Budget  
@@ -28,7 +28,7 @@ prepared by TheFlippedCompany
    4.2 Project Measurements  
 5. [Supporting Process Plans](#processPlans)  
    5.1 Risk Management Plan  
-   5.2 Test Plan
+   5.2 Test Plan  
    5.3 Product Acceptance Plan
 
 ## 1. <a id="overview"></a> Overview
@@ -56,7 +56,7 @@ The main objective of OnGo is to allow users to have an easy and quick access to
 
 There are no extra outputs of the project delivered to the costumers, such as a source code, user’s guide or any manual.  Video tutorials will be avaible on the team website and on the official YT Channel.
 
-### 1.5 _Assumptions and Constrains_
+### 1.5 _Assumptions and Constraints_
 
 Assumptions:
 * The OnGo system takes advantage of the HTTP technology
