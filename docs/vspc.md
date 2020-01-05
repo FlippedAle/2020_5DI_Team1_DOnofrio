@@ -9,7 +9,7 @@ prepared by TheFlippedCompany
 * **Team**: D'Onofrio Alessandro, Ricca Emanuele, Brighenti Christine, Ferrari Matteo
 * **Purpose**: Make the process of exchanging files between computer easy
 * **Scope**: Computer Technology, School
-* **Users**: Anyone who needs a simple way to exchange files
+* **Users**: Anyone who needs a simple way to access a big amount of files without uploading everything online first
 * **Milestones**: 
     >27/11/2019 - Start of the project  
     28/11/2019 - Design of the architecture  
