@@ -1,5 +1,7 @@
 # Progetto Palestra [Compiti vacanze Natale 2019]
 
+Realizzato da D'Onofrio Alessandro
+
 ## Sommario
 
 1. [Progetto Concettuale]()  
