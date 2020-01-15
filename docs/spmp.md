@@ -5,7 +5,7 @@ prepared by TheFlippedCompany
 
 ## Table of Content
 
-1. ### Overwiew  
+1. ### [Overwiew](#Overwiew)  
    1.1 Definitions  
    1.2 Purpose and Scope  
    1.3 Goals and Objectives  
@@ -31,7 +31,7 @@ prepared by TheFlippedCompany
    5.2 Test Plan  
    5.3 Product Acceptance Plan
 
-## 1. <a id="overview"></a> Overview
+## 1. Overview
 
 ### 1.1 _Definitions_
 
