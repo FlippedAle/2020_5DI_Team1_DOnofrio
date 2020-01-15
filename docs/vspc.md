@@ -1,4 +1,4 @@
-# <a id="top"></a> Vision Statement Project Charter 
+# Vision Statement Project Charter 
 
 Version 1.0,  
 prepared by TheFlippedCompany
