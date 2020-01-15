@@ -1,4 +1,4 @@
-# <a id="top"></a> Software Requirements Specifications
+# Software Requirements Specifications
 
 Version 1.0,  
 prepared by TheFlippedCompany
