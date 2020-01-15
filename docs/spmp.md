@@ -1,4 +1,4 @@
-# <a id="top"></a> Software Project Management Plan 
+# Software Project Management Plan 
 
 Version 1.0,  
 prepared by TheFlippedCompany
