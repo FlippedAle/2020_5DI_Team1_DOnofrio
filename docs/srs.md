@@ -121,19 +121,19 @@ Actors: OnGo _User_
 
 Basic path _origin_:
 1. The user opens the _OnGo Desktop Application_
-2. The user copies the generated code
-3. _The user can now decide when to start working on his other devices_
+1. The user copies the generated code
+1. _The user can now decide when to start working on his other devices_
 
 Basic path _user_:  
 1. The user goes to [our website][FlippedWebsite]
-2. The user clicks on the _OnGo Application Icon_
-3. The user _logs into_ his account
-4. The user prompts the _previously given_ code
-5. The system provides an _accurate view_ of the user's origin system
-6. The user navigates to the desired folders by _double-clicking_ on them
-7. To create a new folder, the user _right-clicks_ on the page and clicks on "_New folder_"
-8. The user decides a proper name and then clicks _create_
-9. A new folder has just been created on the origin system
+1. The user clicks on the _OnGo Application Icon_
+1. The user _logs into_ his account
+1. The user prompts the _previously given_ code
+1. The system provides an _accurate view_ of the user's origin system
+1. The user navigates to the desired folders by _double-clicking_ on them
+1. To create a new folder, the user _right-clicks_ on the page and clicks on "_New folder_"
+1. The user decides a proper name and then clicks _create_
+1. A new folder has just been created on the origin system
 
 #### 4.1.2 _Use Case 2_
 
