@@ -119,12 +119,12 @@ The [OnGo Api][OnGoApi] works as an interface between the **origin** application
 **Description: Create a new folder and navigate inside it**  
 Actors: OnGo _User_  
 
-Basic path _origin_:
+#### Basic path _origin_:
 1. The user opens the _OnGo Desktop Application_
 2. The user copies the generated code
 3. _The user can now decide when to start working on his other devices_
 
-Basic path _user_:  
+#### Basic path _user_:  
 1. The user goes to [our website][FlippedWebsite]
 2. The user clicks on the _OnGo Application Icon_
 3. The user _logs into_ his account
@@ -140,12 +140,12 @@ Basic path _user_:
 **Description: Transfer a file from the User to the Origin**  
 Actors: OnGo _User_  
 
-Basic path _origin_:
+#### Basic path _origin_:
 1. The user opens the _OnGo Desktop Application_
 2. The user copies the generated code
 3. _The user can now decide when to start working on his other devices_
 
-Basic path _user_:  
+#### Basic path _user_:  
 1. The user goes to [our website][FlippedWebsite]
 2. The user clicks on the _OnGo Application Icon_
 3. The user _logs into_ his account
@@ -160,12 +160,12 @@ Basic path _user_:
 **Description: Require a file located in the Origin as a User**  
 Actors: OnGo _User_  
 
-Basic path _origin_:
+#### Basic path _origin_:
 1. The user opens the _OnGo Desktop Application_
 2. The user copies the generated code
 3. _The user can now decide when to start working on his other devices_
 
-Basic path _user_:  
+#### Basic path _user_:  
 1. The user goes to [our website][FlippedWebsite]
 2. The user clicks on the _OnGo Application Icon_
 3. The user _logs into_ his account
@@ -182,12 +182,12 @@ Basic path _user_:
 **Description: Send a full proper command through a DOS emulator. Computer shutdown from CLI**  
 Actors: OnGo _User_  
 
-Basic path _origin_:
+#### Basic path _origin_:
 1. The user opens the _OnGo Desktop Application_
 2. The user copies the generated code
 3. _The user can now decide when to start working on his other devices_
 
-Basic path _user_:  
+#### Basic path _user_:  
 1. The user goes to [our website][FlippedWebsite]
 2. The user clicks on the _OnGo Application Icon_
 3. The user _logs into_ his account
@@ -203,12 +203,12 @@ Basic path _user_:
 **Description: Add a new file with content in it**  
 Actors: OnGo _User_  
 
-Basic path _origin_:
+#### Basic path _origin_:
 1. The user opens the _OnGo Desktop Application_
 2. The user copies the generated code
 3. _The user can now decide when to start working on his other devices_
 
-Basic path _user_:  
+#### Basic path _user_:  
 1. The user goes to [our website][FlippedWebsite]
 2. The user clicks on the _OnGo Application Icon_
 3. The user _logs into_ his account
