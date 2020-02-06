@@ -2,35 +2,60 @@
 
 Version 1.0,  
 prepared by TheFlippedCompany
-[//]: # (
-## Table of Content
 
-1. [Overwiew](#Overwiew)  
-   1.1 Definitions  
-   1.2 Purpose and Scope  
-   1.3 Goals and Objectives  
-   1.4 Projects Deliverables  
-   1.5 Assumptions and Constraints  
-   1.6 Schedule and Budget Summary  
-      &nbsp;&nbsp;&nbsp;1.6.1 Schedule  
-      &nbsp;&nbsp;&nbsp;1.6.2 Budget  
-   1.7 Success Criteria
-2. [Startup Plan](#startupPlan)  
-   2.1 Team Organization  
-   2.2 Project Communication  
-   2.3 Technical Process  
-   2.4 Tools  
-3. [Work Plan](#workPlan)  
-   3.1 Activities and Tasks   
-   3.2 Release Plan  
-4. [Control Plan](#controlPlan)  
-   4.1 Monitoring and Control   
-   4.2 Project Measurements  
-5. [Supporting Process Plans](#processPlans)  
-   5.1 Risk Management Plan  
-   5.2 Test Plan  
-   5.3 Product Acceptance Plan
-)
+
+[//]: # (## Table of Content)
+
+[//]: # (1. [Overwiew](#Overwiew)) 
+
+[//]: # (   1.1 Definitions)  
+
+[//]: # (   1.2 Purpose and Scope  )
+
+[//]: # (   1.3 Goals and Objectives  )
+
+[//]: # (   1.4 Projects Deliverables  )
+
+[//]: # (   1.5 Assumptions and Constraints  )
+
+[//]: # (   1.6 Schedule and Budget Summary  )
+
+[//]: # (      1.6.1 Schedule)
+
+[//]: # (      1.6.2 Budget  )
+
+[//]: # (   1.7 Success Criteria)
+
+[//]: # (2. [Startup Plan](#startupPlan)  )
+
+[//]: # (   2.1 Team Organization  )
+
+[//]: # (   2.2 Project Communication  )
+
+[//]: # (   2.3 Technical Process  )
+
+[//]: # (   2.4 Tools  )
+
+[//]: # (3. [Work Plan](#workPlan)  )
+
+[//]: # (   3.1 Activities and Tasks   )
+
+[//]: # (   3.2 Release Plan  )
+
+[//]: # (4. [Control Plan](#controlPlan)  )
+
+[//]: # (   4.1 Monitoring and Control   )
+
+[//]: # (   4.2 Project Measurements  )
+
+[//]: # (5. [Supporting Process Plans](#processPlans)  )
+
+[//]: # (   5.1 Risk Management Plan  )
+
+[//]: # (   5.2 Test Plan  )
+
+[//]: # (   5.3 Product Acceptance Plan)
+
 ## 1. Overview
 
 ### 1.1 _Definitions_
@@ -45,7 +70,7 @@ The OnGo application provides access to files located on a remote computer, with
 
 The purpose of this project is to easily work with files on devices nowhere near the user.
 
-### 1.3 _Goals and Objectives_
+### 1.3 _Goals and Objectives_\
 
 The main objective of OnGo is to allow users to have an easy and quick access to any file stored on their devices. The OnGo application is expected to:  
 * function in a simple and intuitive manner 
