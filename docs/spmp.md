@@ -6,7 +6,7 @@ prepared by TheFlippedCompany
 
 [//]: # (## Table of Content)
 
-[//]: # (1. Overwiew(#Overwiew)) 
+[//]: # (1. Overwiew) 
 
 [//]: # (   1.1 Definitions)  
 
@@ -26,7 +26,7 @@ prepared by TheFlippedCompany
 
 [//]: # (   1.7 Success Criteria)
 
-[//]: # (2. Startup Plan(#startupPlan)  )
+[//]: # (2. Startup Plan  )
 
 [//]: # (   2.1 Team Organization  )
 
@@ -36,19 +36,19 @@ prepared by TheFlippedCompany
 
 [//]: # (   2.4 Tools  )
 
-[//]: # (3. Work Plan(#workPlan)  )
+[//]: # (3. Work Plan )
 
 [//]: # (   3.1 Activities and Tasks   )
 
 [//]: # (   3.2 Release Plan  )
 
-[//]: # (4. Control Plan(#controlPlan)  )
+[//]: # (4. Control Plan )
 
 [//]: # (   4.1 Monitoring and Control   )
 
 [//]: # (   4.2 Project Measurements  )
 
-[//]: # (5. Supporting Process Plans(#processPlans)  )
+[//]: # (5. Supporting Process Plans  )
 
 [//]: # (   5.1 Risk Management Plan  )
 
