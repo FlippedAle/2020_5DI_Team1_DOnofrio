@@ -260,8 +260,7 @@ The test plan will be available in a separate document on the website.
 
 At the conclusion of each iteration, the prototype created will tested to ensure it meets the requirements of that iteration. For the final iteration, product acceptance testing will ensure that the prototype functions as expected.
 
-#### [Top page](#top)
-#### [Index](index.md)
+
 
 [FlippedWebsite]: https://www.theflippedteam.altervista.org
 [OnGoApi]: https://us-central1-web-ftp-ongo.cloudfunctions.net/api
