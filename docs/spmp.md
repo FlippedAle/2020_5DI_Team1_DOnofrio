@@ -2,7 +2,7 @@
 
 Version 1.0,  
 prepared by TheFlippedCompany
-
+[//]: # (
 ## Table of Content
 
 1. [Overwiew](#Overwiew)  
@@ -30,7 +30,7 @@ prepared by TheFlippedCompany
    5.1 Risk Management Plan  
    5.2 Test Plan  
    5.3 Product Acceptance Plan
-
+)
 ## 1. Overview
 
 ### 1.1 _Definitions_
