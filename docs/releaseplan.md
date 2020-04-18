@@ -1,4 +1,4 @@
-# Sailor - Pioneers of the digital enterpreneurship
+# Sailor - Pioneers of the digital entrepreneurship
 ## Release Plan
 
 1. **Revision History**
