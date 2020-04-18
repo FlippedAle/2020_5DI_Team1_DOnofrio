@@ -6,7 +6,7 @@
 
 | Version | Modifier | Date       | Description of Change |
 |:-------:|:--------:|:----------:|:----------------------|
-| 0.1 | A. D'Onofrio | 14/04/2020 | Initial roigh draft.  |
+| 0.1 | A. D'Onofrio | 14/04/2020 | Initial rough draft.  |
 
 ## 1. Introduction
 
