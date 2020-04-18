@@ -53,7 +53,7 @@ This document serves as the definition of Sailor's general coding standards for 
     > int a = 0; //not aligned  
     > int b = 0; //not aligned
 
-3. **spacing Between Lines**
+3. **Spacing Between Lines**
 
     When the programming allows it, the programmer must put empty lines like the following:
 
