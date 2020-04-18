@@ -1,4 +1,4 @@
-# Sailor - Pioneers of the digital enterpreneurship
+# Sailor - Pioneers of the digital entrepreneurship
 ## Architecture and Design          
 
 ### **Revision History**
