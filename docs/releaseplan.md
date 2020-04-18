@@ -25,7 +25,7 @@
 | Features / Activities / Deliverables       | Estimated Effort | Actual Effort |
 |:-------------------------------------------|:----------------:|:-------------:|
 | Design Template on Adobe Experience Design |      10hr        |      10hr     |
-| Application Use Cases Examples             |       5hr        |      10hr     |
+| Application Use Cases Examples             |       5hr        |       5hr     |
 
 ### Iteration #2
 
