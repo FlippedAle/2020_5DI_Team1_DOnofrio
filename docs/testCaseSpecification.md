@@ -9,11 +9,6 @@
 | 0.1 | A. D'Onofrio | 14/04/2020 | Initial roigh draft.  |
 |                                                         |  
 
-
-| Test ID | Title | Feature | Objective | Test Data | Expected Results |
-|:-------:|:-----:|:--------|:----------|:----------|:-----------------|
-|         |       |         |           |           |                  |
-
 ## 1. Introduction
 
 This document provides the test cases to be carried out for the Sailor platform.  
