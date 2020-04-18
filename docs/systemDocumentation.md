@@ -27,6 +27,6 @@ The service marketplace section will be available once you're logged in, in this
 
 You will find the pending order dashboard in your profile and it serves as a quick overlook over your orders. For every order you'll be able to see when was it forwarded, when it will be available, how much it costed, the status and the code. You can use the code to get more informations by contacting the Client Support! Once your order will be completed it will be made available on this exact page!
 
-## 6. The Staff's Dashboard
+## 6. The Staff's Order Dashboard
 
 The staff dashboard is the page that contains all the orders from all the users. The staff will need to always keep a look on this page to make sure that every order is being succesfully forwarded to the supplier and occasionally forward it by hand before communicating the issue to the development team. Every order will contain the exact same informations as the one visible to the user but it will also contain the informations about the user who purchased it.
