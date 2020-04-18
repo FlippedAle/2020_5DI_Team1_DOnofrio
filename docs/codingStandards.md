@@ -11,7 +11,7 @@
 
 This document serves as the definition of Sailor's general coding standards for source control in the different kind of programming languages.
 
-## 2. Source file basics
+## 2. Source File Basics
 
 1. **File name**
 
