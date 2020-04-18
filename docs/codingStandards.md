@@ -1,90 +1,85 @@
-**SAILOR'S CODING STANDARDS**
+# Sailor - Pioneers of the digital entrepreneurship
+## Coding Standards      
 
-## 1.  **Introduction**
+### **Revision History**
 
-   This document servers as the definition of Sailor’s general coding standards
-   for source code in the different kinds of programming languages.
+| Version | Modifier | Date       | Description of Change |
+|:-------:|:--------:|:----------:|:----------------------|
+| 0.1 | E. Ricca     | 14/04/2020 | Initial rough draft.  |
 
-## 2.  **Source file basics**
+## 1. Introduction
 
-### &nbsp; 2.1.  **File name**  
-&nbsp;&nbsp;&nbsp;&nbsp;Every file must be named following those rules:
+This document serves as the definition of Sailor's general coding standards for source control in the different kind of programming languages.
 
--   Every file must be written in “CamelCase”.
+## 2. Source file basics
 
-    -   Examples:
+1. **File name**
 
->   &nbsp;&nbsp;&nbsp;&nbsp;FileName, Test01, TestFileOfFunction
+   Every file must be named following these rules:
 
--   Every filename must be significant.
+   * The name has to be in "_lowerCamelCase_":
+   > fileName, test01, testFileOfFunction
 
-    -   Examples:
+   * The name has to be significant:
+   > featureX, homePage
 
->   &nbsp;&nbsp;&nbsp;&nbsp;FeatureX, HomePage
+   * File names can't start with numbers
 
--   Filenames can’t start with numbers.
+2. **Source file Control**
+    
+    A source file consists of (_in order_):
 
-### &nbsp;2.2.  **Source file structure**  
-&nbsp;&nbsp;&nbsp;&nbsp;A source file consists of, in order:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- License or copyright information, if present  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Package statement  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Import statements  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Exactly one top-level class  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Exactly one blank line separates each section that is present.
+    * License or copyright informations, if present
+    * Package statement
+    * Import statements
+    * Exactly one top-level class
+    * Exactly one blank line separates each of the present section
 
-## 3.  **Code Formatting**
+## 3. Code Formatting
 
-### &nbsp; 3.1.  **Braces**
+1. **Braces**
 
-#### &nbsp;&nbsp;&nbsp; 3.1.1.  **Braces use**   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Braces are used with every statement, when they programming language is structured to do so.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Braces must be used even if the body is empty or contains only a single line.
+    * **Braces use**: Braces are used with every statement, when their programming language is structured to do so.  Braces must be used even if the body is empty or contains only a single line
 
-#### &nbsp;&nbsp;&nbsp; 3.1.2.  **Braces style**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Braces must follow the “Egyptian brackets” style or Kernighan and Ritchie style.
+    * **Braces style**: Braces must follow the _"Egyptian brackets"_ style or _Kernighan and Ritchie_ style
+    > if(condition){  
+    > &nbsp;&nbsp;&nbsp;//do this   
+    > } 
 
--   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Examples:
+2. **Horizontal Alignment**
 
->   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (a == b) {  
->   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;printf("hello");  
->   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+    Terminology Note: _Horizontal Alignment_ is the practice of aligning certain parts of the code with the following parts.  Horiziontal Alignment is permitted but not required.
 
-### &nbsp; 3.2.  **Horizontal alignment**
+    > int a = 0; //not aligned  
+    > int b = 0; //not aligned
 
-&nbsp;&nbsp;&nbsp;&nbsp;Terminology Note: Horizontal alignment is the practice of aligning certain part of the code with the following lines.
-&nbsp;&nbsp;&nbsp;&nbsp;Horizontal alignment is not required, even if is permitted.
+3. **spacing Between Lines**
 
--   &nbsp;&nbsp;&nbsp;&nbsp;Examples:
+    When the programming allows it, the programmer must put empty lines like the following:
 
->   &nbsp;&nbsp;&nbsp;&nbsp;int a = 0; //not aligned  
->   &nbsp;&nbsp;&nbsp;&nbsp;int b = 0; //not aligned
+    * 2 empty lines between each method
+    * 1 empty line between logically different blocks
 
-### &nbsp; 3.3.   **Spacing between lines**
+    > int a = 0  
+    > int b = 0  
+    >  
+    > methodA(){  
+    > &nbsp;&nbsp;&nbsp;//do this  
+    > }  
+    >   
+    > &nbsp;  
+    > methodB(){  
+    > &nbsp;&nbsp;&nbsp;methodA()
+    >   
+    > &nbsp;&nbsp;&nbsp;//do that  
+    > }
 
-&nbsp;&nbsp;&nbsp;&nbsp;When the programming language permit it, the programmer must put empty lines in this cases:
--   &nbsp;&nbsp;&nbsp;&nbsp;2 empty lines between methods.
--   &nbsp;&nbsp;&nbsp;&nbsp;1 empty line between logically different blocks.
-    -   &nbsp;&nbsp;&nbsp;&nbsp;Examples:
+## 4. Declarations
 
->   &nbsp;&nbsp;&nbsp;&nbsp;int a = 0;  
->   &nbsp;&nbsp;&nbsp;&nbsp;int b = 0;  
->
->   &nbsp;&nbsp;&nbsp;&nbsp;methodA(){  
->   &nbsp;&nbsp;&nbsp;&nbsp;print(something);  
->   &nbsp;&nbsp;&nbsp;&nbsp;}
->  
->   &nbsp;&nbsp;&nbsp;&nbsp;methodB(){  
->   &nbsp;&nbsp;&nbsp;&nbsp;print(methodA());  
->     
->   &nbsp;&nbsp;&nbsp;&nbsp;print(somethingDifferent);  
->   &nbsp;&nbsp;&nbsp;&nbsp;}
+1. **Variables**
 
-## 4.  **Declarations**
+    Variables must be declared in "_lowerCamelCase_" and the name must be significant.
 
-### &nbsp; 4.1.  **Variables**  
-&nbsp;&nbsp;&nbsp;&nbsp;Variables must be declared in “lowerCamelCase” and the name must be
-&nbsp;&nbsp;&nbsp;&nbsp;significant.
+2. **Methods and Classes**
 
-### &nbsp; 4.2.  **Methods and classes**  
-&nbsp;&nbsp;&nbsp;&nbsp;Methods and classes must be declared in “CamelCase” and the name must be
-&nbsp;&nbsp;&nbsp;&nbsp;significant.
+    Methods and classes must be declared in "_lowerCamelCase_" and the name must be significant.
