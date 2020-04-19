@@ -4,6 +4,7 @@
 | Version | Modifier | Date       | Description of Change |
 |:-------:|:--------:|:----------:|:----------------------|
 | 0.1 | M. Ferrari   | 18/04/2020 | Initial rough draft.  |
+| 0.2 | A. D'Onofrio | 18/04/2020 | Document Review and Approval.    |
 
 ## 1. Purpose
 
