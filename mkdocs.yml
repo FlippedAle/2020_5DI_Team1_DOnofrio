@@ -14,6 +14,16 @@ nav:
     - 'userGuide': 'userGuide.md'
     - 'testCaseSpecification': 'testCaseSpecification.md'
     - 'memorandumOfUnderstanding': 'memorandumOfUnderstanding.md'
+    - 'releasePlanPDF': 'releasePlan.pdf'
+    - 'iterationPlanPDF': 'iterationPlan.pdf'
+    - 'architectureAndDesignPDF': 'architectureAndDesign.pdf'
+    - 'codingStandardsPDF': 'codingStandards.pdf'
+    - 'successCriteriaPDF': 'successCriteria.pdf'
+    - 'systemDocumentationPDF': 'systemDocumentation.pdf'
+    - 'testPlanPDF': 'testPlan.pdf'
+    - 'userGuidePDF': 'userGuide.pdf'
+    - 'testCaseSpecificationPDF': 'testCaseSpecification.pdf'
+    - 'memorandumOfUnderstandingPDF': 'memorandumOfUnderstanding.pdf'
    
     
 theme:
