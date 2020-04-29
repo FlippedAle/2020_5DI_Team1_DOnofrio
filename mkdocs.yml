@@ -4,6 +4,16 @@ nav:
     - 'Elevator Statement': 'elevatorSpeech.md'
     - 'Software Requirements Specification': 'srs.md'
     - 'Software Project Management plan': 'spmp.md'
+    - 'releasePlan': 'releasePlan.md'
+    - 'iterationPlan': 'iterationPlan.md'
+    - 'architectureAndDesign': 'architectureAndDesign.md'
+    - 'codingStandards': 'codingStandards.md'
+    - 'successCriteria': 'successCriteria.md'
+    - 'systemDocumentation': 'systemDocumentation.md'
+    - 'testPlan': 'testPlan.md'
+    - 'userGuide': 'userGuide.md'
+    - 'testCaseSpecification': 'testCaseSpecification.md'
+    - 'memorandumOfUnderstanding': 'memorandumOfUnderstanding.md'
    
     
 theme:
