@@ -2,4 +2,10 @@
 
 ## Index
 
+Group members:
+
+* Alessandro D'Onofrio
+* Emanuele Ricca
+* Matteo Ferrari
+* Christine Brighenti
 
