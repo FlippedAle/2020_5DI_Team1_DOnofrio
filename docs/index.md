@@ -2,6 +2,8 @@
 
 ## Index
 
+Project Name: Sailor
+
 Group members:
 
 * Alessandro D'Onofrio
