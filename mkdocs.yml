@@ -30,7 +30,7 @@ nav:
     - 'userGuidePDF': 'userGuide.pdf'
     - 'testCaseSpecificationPDF': 'testCaseSpecification.pdf'
     - 'memorandumOfUnderstandingPDF': 'memorandumOfUnderstanding.pdf'
-   
+    - 'GDPR Dpa": "Sailor GDPR DPA (1).pdf"
     
 theme:
     name: readthedocs
